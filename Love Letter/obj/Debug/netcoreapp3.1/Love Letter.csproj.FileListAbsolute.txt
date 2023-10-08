@@ -1,0 +1,26 @@
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.exe
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.deps.json
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.runtimeconfig.json
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.runtimeconfig.dev.json
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.dll
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.pdb
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.csprojAssemblyReference.cache
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.AssemblyInfoInputs.cache
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.AssemblyInfo.cs
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.csproj.CoreCompileInputs.cache
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.dll
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.pdb
+C:\Users\James Weller\Desktop\001_cwrk-love-letter-WellerJC.git\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.genruntimeconfig.cache
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.exe
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.deps.json
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.runtimeconfig.json
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.runtimeconfig.dev.json
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.dll
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\bin\Debug\netcoreapp3.1\Love Letter.pdb
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.csprojAssemblyReference.cache
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.AssemblyInfoInputs.cache
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.AssemblyInfo.cs
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.csproj.CoreCompileInputs.cache
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.dll
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.pdb
+C:\Users\James Weller\Desktop\New folder\trunk\Love Letter\obj\Debug\netcoreapp3.1\Love Letter.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This file is to save current game progress-->
+<CurrentGame>
+  <Player0>
+    <PlayerType>Human</PlayerType>
+    <Name>James</Name>
+    <Tokens>0</Tokens>
+  </Player0>
+  <Player1>
+    <PlayerType>Human</PlayerType>
+    <Name>Mitchell</Name>
+    <Tokens>0</Tokens>
+  </Player1>
+  <Player2>
+    <PlayerType>Human</PlayerType>
+    <Name>Mike</Name>
+    <Tokens>5</Tokens>
+  </Player2>
+  <Player3>
+    <PlayerType>Human</PlayerType>
+    <Name>Sandy</Name>
+    <Tokens>0</Tokens>
+  </Player3>
+  <NumberofPlayers>
+    <Number>4</Number>
+  </NumberofPlayers>
+  <Rounds>
+    <RoundNumber>1</RoundNumber>
+  </Rounds>
+  <SinglePlayer>
+    <SP>False</SP>
+  </SinglePlayer>
+</CurrentGame>
